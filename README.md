@@ -46,25 +46,6 @@ python image_viewer.py
 ```
 
 3. A window will open showing the image. Press **any key** to close it.
-
----
-
-## 💻 Code
-
-```python
-import cv2
-
-img = cv2.imread("flower.png")  # load image (use your own path)
-
-if img is not None:
-    cv2.imshow("window display", img)  # show image
-    cv2.waitKey(0)                     # wait for key press
-    cv2.destroyAllWindows()            # close window
-    print("Image shape:", img.shape)   # (height, width, channels)
-else:
-    print("Failed to load image.")
-```
-
 ---
 
 ## 🔍 How It Works

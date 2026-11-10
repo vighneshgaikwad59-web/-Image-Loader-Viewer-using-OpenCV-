@@ -83,14 +83,7 @@ Image shape: (512, 512, 3)
 - Resize and crop images
 - Apply filters (blur, edge detection)
 - Save processed images
-
 ---
-
-## 👤 Author
-
-**Vighnesh Anand Gaikwad**
-MSc Bioinformatics | Python | Data Science
-GitHub: [@vighneshgaikwad59-web](https://github.com/vighneshgaikwad59-web)
 
 ---
 
